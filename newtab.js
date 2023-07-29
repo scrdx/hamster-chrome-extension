@@ -1,0 +1,1 @@
+window.location.href = 'http://www.bias.site/main.html';
